@@ -25,7 +25,7 @@
 ---
 
 [website]: https://gadgetz-life.blogspot.com/
-[gmail]: mailto: ayon.bony@gmail.com
+[gmail]: mailto:ayon.bony@gmail.com
 [facebook]: https://www.facebook.com/ayon.bony/
 [twitter]: https://twitter.com/zapdos13
 [youtube]: https://www.youtube.com/c/AyanBhadury/
