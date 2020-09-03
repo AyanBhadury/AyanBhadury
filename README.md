@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayan 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ayan-resume.web.app/)
+[![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https://ayan-resume.web.app)](https://ayan-resume.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zapdos13)
 
 ## I'm a Front-End Developer, and Data Visualization Enthusiast!
