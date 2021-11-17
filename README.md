@@ -5,9 +5,9 @@
 
 ## I'm a Front-End Developer, & Data Visualization Enthusiast!
 
-- 🔭 I’m currently working on React :star_of_david: & Data Visualization :chart:
+- 🔭 I’m currently working on Observability,Monitoring :star_of_david: & Data Visualization :chart:
 - 🌱 I’m currently helping developers to build their dashboards & applications
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do gadget reviews :headphones: & click pictures :camera_flash:
 
 ### Connect with me:
