@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https://ayan-resume.web.app)](https://ayan-resume.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zapdos13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zapdos13)
 
-## I'm a Front-End Developer, & Data Visualization Enthusiast!
+## I'm a Front-End & Data Visualization Enthusiast!
 
 - 🔭 I’m currently working on Observability,Monitoring :star_of_david: & Data Visualization :chart:
 - 🌱 I’m currently helping developers to build their dashboards & applications
