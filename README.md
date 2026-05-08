@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Observability,Monitoring :star_of_david: & Data Visualization :chart:
 - 🌱 I’m currently helping developers to build their dashboards & applications
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do gadget reviews :headphones: & click pictures :camera_flash:
 
 ### Connect with me:
